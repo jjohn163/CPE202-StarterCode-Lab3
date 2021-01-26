@@ -5,10 +5,6 @@ Goals:
   queue_linked.py
 * Implement a Queue class using a circular array: queue_array.py
 
-Before doing this lab I recommend that you read over section 4.10, 4.11,
-and 4.12. You will not be doing the implementation described in section
-4.12, but it will help you understand the underlying concepts.
-
 * In the first implementation, you will use a linked structure similar
   to the linked structure used in implementing the Stack ADT
   (i.e. create a Node class).  In this case, there must be a way to add
