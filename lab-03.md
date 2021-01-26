@@ -68,7 +68,9 @@ get them using the invitation link.
   class
 * [queue_tests.py](./queue_tests.py): Contains your set of thorough tests to ensure your
   implementations work correctly. These tests must run correctly on ANY
-  implementation that follows the specification.
+  implementation that follows the specification. MAKE SURE TO IMPORT QUEUE_ARRAY.PY WHEN YOU 
+  PUSH YOUR CODE TO GITHUB.  MY COVERAGE WILL TEST FOR THE QUEUE ARRAY IMPLEMENTATION ONLY, BUT BOTH 
+  IMPLEMENTATIONS WILL BE TESTED FOR CORRECTNESS.
 
 (Note that the class in each stack implementation is named Queue, and
 both implementations must follow the same specification. This allows one
