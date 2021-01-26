@@ -1,6 +1,6 @@
 import unittest
-#from queue_array import Queue
-from queue_linked import Queue
+from queue_array import Queue
+#from queue_linked import Queue
 
 class TestLab1(unittest.TestCase):
     def test_queue(self):
